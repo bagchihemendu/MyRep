@@ -17,6 +17,7 @@ namespace AzureTableStorage
         static void Main(string[] args)
         {
             int i;
+            int jordan;
             try
             {
                 CreateAzureStorageTable();
