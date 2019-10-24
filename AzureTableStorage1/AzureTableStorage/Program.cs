@@ -16,7 +16,6 @@ namespace AzureTableStorage
         static CloudTable table;
         static void Main(string[] args)
         {
-            int i;
             try
             {
                 CreateAzureStorageTable();
